@@ -1,4 +1,9 @@
-:root{
-  --red: red;
+:root {
+  --red: hsl(0, 50%, 50%);
+  --blue: hsl(230, 50%, 50%);
   --primary: var(--red);
+}
+
+.theme1{
+  --brown:hsl(15,50%,31%);
 }

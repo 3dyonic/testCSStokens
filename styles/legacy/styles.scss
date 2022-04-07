@@ -1,4 +1,9 @@
 :root {
-  --red: red;
-  --primary: red;
+  --red: hsl(0, 50%, 50%);
+  --blue: hsl(230, 50%, 50%);
+  --primary: hsl(0, 50%, 50%);
+}
+
+.theme1{
+  --brown:hsl(15,50%,30%);
 }
