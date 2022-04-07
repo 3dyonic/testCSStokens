@@ -1,0 +1,20 @@
+{
+  "name": "comparecsstokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "styles": "node-sass styles/ -o dist/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {
+    "postcss": "8.4.4"
+  }
+}
